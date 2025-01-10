@@ -1,0 +1,23 @@
+from aiogram.fsm.state import State, StatesGroup
+
+class SavolJavoblar(StatesGroup):
+    bir_s = State()
+    ikki_s = State()
+    uch_s = State()
+    tort_s = State()
+    besh_s = State()
+    olti_s = State()
+    yetti_s = State()
+    sakkiz_s = State()
+    toqqiz_s = State()
+    on_s = State()
+    onb_s = State()
+    oni_s = State()
+    onu_s = State()
+    ont_s = State()
+    onbe_s = State()
+    ono_s = State()
+    ony_s = State()
+    ons_s = State()
+    ond_s = State()
+    yigi_s = State()
